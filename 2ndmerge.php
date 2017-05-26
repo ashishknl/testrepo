@@ -5,6 +5,6 @@
 <title>Untitled Document</title>
 </head>
 
-<body>hello
+<body>
 </body>
 </html>
